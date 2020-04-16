@@ -8,7 +8,7 @@
     "website": "https://singhayush1403.github.io",
     "summary": "I am studying for a B.E. in Computer Science  at the Birla Institute of Technology and Science. I expect to graduate in May, 2022.",
     "location": {
-      "address": "1872 D-Sector Sudama Nagat",
+      "address": "1872 D-Sector Sudama Nagar",
       "postalCode": "452009",
       "city": "Indore",
       "countryCode": "IND",
@@ -52,35 +52,36 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Dart",
+        "Flutter",
+        "Java",
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Node.js",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Docker",
+        "CodeMagic"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "BITS Pilani,Pilani Campus",
+      "area": "Computer Science (expected May, 2022)",
+      "studyType": "B.E.",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "8.09/10",
       "courses": [
+        "OOP",
+        "Database Systems"
       ]
     }
   ],
