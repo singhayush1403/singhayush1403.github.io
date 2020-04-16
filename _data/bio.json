@@ -1,40 +1,31 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ayush Singh",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/singhayush1403/singhayush1403.github.io/blob/master/images/ayush.jpg",
+    "email": "f20180274@pilani.bits-pilani.ac.in",
+    "phone": "+91-9407552095",
+    "website": "https://singhayush1403.github.io",
+    "summary": "I am studying for a B.E. in Computer Science  at the Birla Institute of Technology and Science. I expect to graduate in May, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "1872 D-Sector Sudama Nagat",
+      "postalCode": "452009",
+      "city": "Indore",
+      "countryCode": "IND",
+      "region": "Madhya Pradesh"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "singhayush1403",
+        "url": "http://github.com/singhayush1403"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Ayush Singh",
+        "url": "https://www.linkedin.com/in/ayush-singh-306689179/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+    
     ]
   },
   "interests": [
