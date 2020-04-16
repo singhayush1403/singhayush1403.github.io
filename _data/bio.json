@@ -30,19 +30,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cloud based applications",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "AWS" 
+           ]
+    },
+    {
+      "name": "Neural Networks",
+      "keywords": [
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -58,7 +57,7 @@
         "C",
         "C++",
         "Javascript",
-        "Node.js",
+        "Node.js"
       ]
     },
     {
@@ -67,7 +66,7 @@
       "keywords": [
         "Git/GitHub",
         "Docker",
-        "CodeMagic"
+        "CodeMagic(CI/CD)"
       ]
     }
   ],
