@@ -51,11 +51,11 @@
       "name": "Languages and Frameworks",
       "level": "Beginner",
       "keywords": [
-        "Dart",
-        "Flutter",
+        "Flutter",        
         "Java",
         "C",
-        "C++",
+        "Dart",
+        "C++", 
         "Javascript",
         "Node.js"
       ]
@@ -80,21 +80,24 @@
       "gpa": "8.09/10",
       "courses": [
         "OOP",
-        "Database Systems"
+        "Database Systems",
+        "Data Structures and Algorithms",
+        "Logic in CS",
+        "Discrete Mathematics for CS"
       ]
     }
   ],
-  "work": [
+  "Positions": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Student Union Technical Team",
+      "position": "App Developer",
+      "website": "https://su-bitspilani.org/",
+      "startDate": "2018-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "App Developer and App Team Lead",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official app of the campus,used by 4000+ students"
+        
       ]
     },
     {
@@ -112,28 +115,28 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "SU Technical team",
+      "website": "https://su-bitspilani.org/",
+      "position": "App Developer",
+      "startDate": "2018-12-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead App developer for the Student Union App",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Complete cross-platform app, designed and built in Flutter",
+        "Used by over 4000+ students"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Hackathon Team ",
+      "website": "https://neel2902.github.io/Covid19-Hackathon/index.html",
+      "position": "App Developer",
+      "startDate": "2020-04-02",
+      "endDate": "Present",
+      "summary": "Built an App to support SMEs in the time of Lockdown",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "A cross-platform app developed with flutter in 48 hours",
+        "Amongst the top 30 teams selected from all over India",
+        "Invited to attend the GlobalHack, which had over 9000+ participants"
       ]
     }
   ],
@@ -145,10 +148,8 @@
       "summary": "Selected in top 30 amongst 3000 teams in HackTheCrisis, an online hackathon organised by the Government of India"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title":"NTSE and KYPY scholar",
+      "awarder":"Ministry of Human Resources and Development"
     }
   ],
   "references": [
