@@ -87,7 +87,7 @@
       ]
     }
   ],
-  "Positions": [
+  "work": [
     {
       "company": "Student Union Technical Team",
       "position": "App Developer",
@@ -128,7 +128,7 @@
     },
     {
       "organization": "Hackathon Team ",
-      "website": "https://neel2902.github.io/Covid19-Hackathon/index.html",
+      "website": "https://github.com/singhayush1403/HackTheCrisis",
       "position": "App Developer",
       "startDate": "2020-04-02",
       "endDate": "Present",
