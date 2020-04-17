@@ -24,24 +24,26 @@
         "network": "linkedin",
         "username": "Ayush Singh",
         "url": "https://www.linkedin.com/in/ayush-singh-306689179/"
-      },
+      }
     
     ]
   },
   "interests": [
     {
-      "name": "Cloud based applications",
+      "name": "Mobile Applications",
       "keywords": [
-        "AWS" 
+        "Flutter",
+        "React Native"
            ]
     },
     {
-      "name": "Neural Networks",
+      "name": "Server-Side Frameworks",
       "keywords": [
+"Express.js","django"
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -65,7 +67,7 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
-        "Docker",
+        
         "CodeMagic(CI/CD)"
       ]
     }
@@ -105,20 +107,21 @@
   "volunteer": [
     {
       "organization": "SU Technical team",
-      "website": "https://su-bitspilani.org/",
-      "position": "App Developer",
+      "website": "https://play.google.com/store/apps/details?id=org.subitspilani.bits_su_app&hl=en",
+      "position": "BITS SU App",
       "startDate": "2018-12-01",
       "endDate": "Present",
       "summary": "Lead App developer for the Student Union App",
       "highlights": [
         "Complete cross-platform app, designed and built in Flutter",
-        "Used by over 4000+ students"
+        "Used by over 4000+ students",
+        "Integrated with an online portal to manage merchandise signings, real time transactions,and QR supported delivery"
       ]
     },
     {
       "organization": "Hackathon Team ",
       "website": "https://github.com/singhayush1403/HackTheCrisis",
-      "position": "App Developer",
+      "position": "FinHelp",
       "startDate": "2020-04-02",
       "endDate": "Present",
       "summary": "Built an App to support SMEs in the time of Lockdown",
@@ -131,7 +134,7 @@
     {
       "organization": "Coding Club,BITS Pilani ",
       "website": "https://github.com/singhayush1403/BOSM-Roulette-2019",
-      "position": "App Developer",
+      "position": "BOSM Roulette",
       "startDate": "2020-01-15",
       "endDate": "Present",
       "summary": "An online Betting app for the Annual Sports Fest BOSM 2019",
