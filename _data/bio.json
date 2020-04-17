@@ -99,19 +99,8 @@
         "Maintain, update, and oversee official app of the campus,used by 4000+ students"
         
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
+    
   ],
   "volunteer": [
     {
@@ -137,6 +126,19 @@
         "A cross-platform app developed with flutter in 48 hours",
         "Amongst the top 30 teams selected from all over India",
         "Invited to attend the GlobalHack, which had over 9000+ participants"
+      ]
+    },
+    {
+      "organization": "Coding Club,BITS Pilani ",
+      "website": "https://github.com/singhayush1403/BOSM-Roulette-2019",
+      "position": "App Developer",
+      "startDate": "2020-01-15",
+      "endDate": "Present",
+      "summary": "An online Betting app for the Annual Sports Fest BOSM 2019",
+      "highlights": [
+        "Live Score Management and Betting System built on Firestore",
+        "Built in native Java",
+        "Over 5000+ bets placed on various sporting events"
       ]
     }
   ],
