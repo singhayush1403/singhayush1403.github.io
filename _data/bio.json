@@ -39,7 +39,7 @@
     {
       "name": "Server-Side Frameworks",
       "keywords": [
-"Express.js","django"
+"Express.js","Django"
       ]
     },
     {
@@ -135,8 +135,8 @@
       "organization": "Coding Club,BITS Pilani ",
       "website": "https://github.com/singhayush1403/BOSM-Roulette-2019",
       "position": "BOSM Roulette",
-      "startDate": "2020-01-15",
-      "endDate": "Present",
+      "startDate": "2019-09-13",
+      "endDate": "2019-09-17",
       "summary": "An online Betting app for the Annual Sports Fest BOSM 2019",
       "highlights": [
         "Live Score Management and Betting System built on Firestore",
@@ -153,7 +153,7 @@
       "summary": "Selected in top 30 amongst 3000 teams in HackTheCrisis, an online hackathon organised by the Government of India"
     },
     {
-      "title":"NTSE and KYPY scholar",
+      "title":"NTSE and KVPY scholar",
       "awarder":"Ministry of Human Resources and Development"
     }
   ],
