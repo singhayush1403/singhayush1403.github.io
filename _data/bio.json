@@ -135,6 +135,7 @@
       "endDate": "2019-09-17",
       "summary": "An online Betting app for the Annual Sports Fest BOSM 2019",
       "highlights": [
+        "https://play.google.com/store/apps/details?id=com.bitspilani.bosmroulette&hl=en",
         "Live Score Management and Betting System built on Firestore",
         "Built in native Java",
         "Over 5000+ bets placed on various sporting events"
